@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NumberGuess</string>
+    <string name="start">Start</string>
+    <string name="easy">Easy</string>
+    <string name="exit">Exit</string>
+    <string name="back_difficulty">Back</string>
+    <string name="number_guess">Number Guess</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="speed">Speed</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="input_range">Input Range</string>
+    <string name="back">Back</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="settings">Settings</string>
+    <string name="back_settings">back</string>
+    <string name="confirm">Confirm</string>
+    <string name="guesses_left">Guesses Left:</string>
+    <string name="guess_the_number">Guess The Number!</string>
+    <string name="confirm_guessing">Confirm</string>
+    <string name="you_win">You Win!</string>
+    <string name="you_lost">You Lost!</string>
+    <string name="todo">TODO</string>
+    <string name="go_back">Go Back</string>
+    <string name="inputName">Input Name</string>
+    <string name="welcome_to_the_game">Welcome to the game!</string>
+    <string name="try_to_beat_your_highscore">Try to beat your highscore!</string>
+    <string name="then_try_to_guess_the_secret_number">Then try to guess the secret number!</string>
+    <string name="to_play_choose_a_difficulty_and_then_set_the_range">To play choose a difficulty and then set the range!</string>
+</resources>
